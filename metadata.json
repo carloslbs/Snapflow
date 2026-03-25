@@ -1,0 +1,5 @@
+{
+  "name": "SnapFlow - Captura Sequencial Inteligente",
+  "description": "Capture áreas específicas da tela sequencialmente e exporte para PDF ou DOCX.",
+  "requestFramePermissions": ["display-capture"]
+}
